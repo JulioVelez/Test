@@ -1,0 +1,1376 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CANAL CLARO">
+    <display-name lang="es">CANAL CLARO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/7c4b9e8566a6e867d1db4c7ce845f1f4.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL CLARO HD">
+    <display-name lang="es">CANAL CLARO HD</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL UNO">
+    <display-name lang="es">CANAL UNO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/a2d0f68ee68dbcdd6e5345e510f094e0.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL CARACOL">
+    <display-name lang="es">CANAL CARACOL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/57af4b8a1f58bc063cd09f1a9e074b20.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="DIA TV">
+    <display-name lang="es">DIA TV</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e4dd778bd580b2c66349e966814eabcf.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL RCN">
+    <display-name lang="es">CANAL RCN</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/12b8dd9582417980e6d4d2f75a48f79e.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="EL TIEMPO TELEVISION">
+    <display-name lang="es">EL TIEMPO TELEVISION</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/163308ec0dceca207789ffb3afc68342.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="VMAS-TV">
+    <display-name lang="es">VMAS-TV</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <programme start="20190222000000 +0000" stop="20190222010000 +0000" channel="CANAL CLARO">
+    <title lang="es">Art Of America</title>
+    <desc lang="es">En la segunda parte de su fascinante viaje, Andrew Graham-Dixon se mete bajo la piel de la moderna metrópolis estadounidense. Comenzando su viaje al pie de la Estatua de la Libertad, Andrew descubre cómo las ambiciones de artistas y arquitectos visionarios ayudaron a Estados Unidos a alejarse de la sombra de Europa y convertirse en la civilización más avanzada del mundo(n)</desc>
+    <date>2011</date>
+    <category lang="es">Documental</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222010000 +0000" stop="20190222020000 +0000" channel="CANAL CLARO">
+    <title lang="es">Mad Men</title>
+    <desc lang="es">Ep.6: Babylon. En la oficina se descubre un romance secreto. Por su parte, Peggy demuestra que podría ser más válida para la empresa como publicista que como secretaria. Mientras, Rachel debe afrontar los sentimientos contradictorios que tiene hacia Don(n)</desc>
+    <date>2007</date>
+    <category lang="es">Drama</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190222020000 +0000" stop="20190222030000 +0000" channel="CANAL CLARO">
+    <title lang="es">Las Muñecas De La Mafia</title>
+    <desc lang="es">Brenda y Lucrecia son dos mujeres que viven en mundos diferentes. Brenda es una joven de bajos recursos que se gana la vida trabajando, mientras que Lucrecia es la esposa de un narcotraficante muy importante de la región(n)</desc>
+    <date>2009</date>
+    <category lang="es">Drama</category>
+    <episode-num system="onscreen">S1E2</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222030000 +0000" stop="20190222040000 +0000" channel="CANAL CLARO">
+    <title lang="es">Mad Men</title>
+    <desc lang="es">Ep.6: Babylon. En la oficina se descubre un romance secreto. Por su parte, Peggy demuestra que podría ser más válida para la empresa como publicista que como secretaria. Mientras, Rachel debe afrontar los sentimientos contradictorios que tiene hacia Don(n)</desc>
+    <date>2007</date>
+    <category lang="es">Drama</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190222040000 +0000" stop="20190222050000 +0000" channel="CANAL CLARO">
+    <title lang="es">Art Of America</title>
+    <desc lang="es">En la segunda parte de su fascinante viaje, Andrew Graham-Dixon se mete bajo la piel de la moderna metrópolis estadounidense. Comenzando su viaje al pie de la Estatua de la Libertad, Andrew descubre cómo las ambiciones de artistas y arquitectos visionarios ayudaron a Estados Unidos a alejarse de la sombra de Europa y convertirse en la civilización más avanzada del mundo(n)</desc>
+    <date>2011</date>
+    <category lang="es">Documental</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222050000 +0000" stop="20190222060000 +0000" channel="CANAL CLARO">
+    <title lang="es">La Ronca de Oro</title>
+    <desc lang="es">En este episodio de ´La ronca de oro´, Helena escapa de la ceremonia de coronación del concurso de belleza para casarse con Germán pero no pasan la noche de bodas juntos por una fuerte discusión(n)</desc>
+    <date>2014</date>
+    <category lang="es">Drama</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222060000 +0000" stop="20190222063000 +0000" channel="CANAL CLARO">
+    <title lang="es">Conexión Claro 2019</title>
+    <desc lang="es">Conexión Claro ofrece al televidente la información más actual y las notas de más relevancia relacionadas con nuevos proyectos de artistas, lanzamientos de albumes de cantantes y bandas exitosas, estrenos de películas y series, así como lo más novedoso en la carrera de actores y actrices(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222063000 +0000" stop="20190222073000 +0000" channel="CANAL CLARO">
+    <title lang="es">Las Muñecas De La Mafia</title>
+    <desc lang="es">Brenda y Lucrecia son dos mujeres que viven en mundos diferentes. Brenda es una joven de bajos recursos que se gana la vida trabajando, mientras que Lucrecia es la esposa de un narcotraficante muy importante de la región(n)</desc>
+    <date>2009</date>
+    <category lang="es">Drama</category>
+    <episode-num system="onscreen">S1E2</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222073000 +0000" stop="20190222080000 +0000" channel="CANAL CLARO">
+    <title lang="es">Larry King Now</title>
+    <desc lang="es">Larry te trae a los creadores de noticias de todas las tendencias, no solo a líderes mundiales y celebridades del entretenimiento, la cultura pop y los deportes, sino también a personas comunes que cambian el mundo o se ven atrapados en el fuego cruzado de las historias más emocionantes y más importantes del día(n)</desc>
+    <date>2014</date>
+    <category lang="es">Entrevistas</category>
+    <episode-num system="onscreen">S4E29</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222080000 +0000" stop="20190222083000 +0000" channel="CANAL CLARO">
+    <title lang="es">Larry King Now</title>
+    <desc lang="es">Larry te trae a los creadores de noticias de todas las tendencias, no solo a líderes mundiales y celebridades del entretenimiento, la cultura pop y los deportes, sino también a personas comunes que cambian el mundo o se ven atrapados en el fuego cruzado de las historias más emocionantes y más importantes del día(n)</desc>
+    <date>2014</date>
+    <category lang="es">Entrevistas</category>
+    <episode-num system="onscreen">S4E30</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222083000 +0000" stop="20190222090000 +0000" channel="CANAL CLARO">
+    <title lang="es">Conexión Claro 2019</title>
+    <desc lang="es">Conexión Claro ofrece al televidente la información más actual y las notas de más relevancia relacionadas con nuevos proyectos de artistas, lanzamientos de albumes de cantantes y bandas exitosas, estrenos de películas y series, así como lo más novedoso en la carrera de actores y actrices(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222090000 +0000" stop="20190222100000 +0000" channel="CANAL CLARO">
+    <title lang="es">Yo Quisiera</title>
+    <desc lang="es">Ep.9: El Famoso Director De Cine. Víctor Vegas, el famoso director de cine y padre de André, intenta acercarse a él, situación que Patricia aprovecha para conocerle y presentarse como actriz. Lana ha tomado la decisión de no mezclar lo profesional con lo personal y se ciñe a ello(n)</desc>
+    <date>2015</date>
+    <category lang="es">Drama</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190222100000 +0000" stop="20190222103000 +0000" channel="CANAL CLARO">
+    <title lang="es">Larry King Now</title>
+    <desc lang="es">Larry te trae a los creadores de noticias de todas las tendencias, no solo a líderes mundiales y celebridades del entretenimiento, la cultura pop y los deportes, sino también a personas comunes que cambian el mundo o se ven atrapados en el fuego cruzado de las historias más emocionantes y más importantes del día(n)</desc>
+    <date>2014</date>
+    <category lang="es">Entrevistas</category>
+    <episode-num system="onscreen">S4E29</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222103000 +0000" stop="20190222110000 +0000" channel="CANAL CLARO">
+    <title lang="es">Conexión Claro 2019</title>
+    <desc lang="es">Conexión Claro ofrece al televidente la información más actual y las notas de más relevancia relacionadas con nuevos proyectos de artistas, lanzamientos de albumes de cantantes y bandas exitosas, estrenos de películas y series, así como lo más novedoso en la carrera de actores y actrices(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222110000 +0000" stop="20190222120000 +0000" channel="CANAL CLARO">
+    <title lang="es">Yo Quisiera</title>
+    <desc lang="es">Ep.9: El Famoso Director De Cine. Víctor Vegas, el famoso director de cine y padre de André, intenta acercarse a él, situación que Patricia aprovecha para conocerle y presentarse como actriz. Lana ha tomado la decisión de no mezclar lo profesional con lo personal y se ciñe a ello(n)</desc>
+    <date>2015</date>
+    <category lang="es">Drama</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190222120000 +0000" stop="20190222123000 +0000" channel="CANAL CLARO">
+    <title lang="es">DressCode 2019</title>
+    <desc lang="es">De la mano de Chantal Torres, nuestra experta en fashion, el público obtiene tips básicos y diversas opciones para combinar prendas accesibles, sin importar la ocasión o temporada(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222123000 +0000" stop="20190222130000 +0000" channel="CANAL CLARO">
+    <title lang="es">Conexión Claro 2019</title>
+    <desc lang="es">Conexión Claro ofrece al televidente la información más actual y las notas de más relevancia relacionadas con nuevos proyectos de artistas, lanzamientos de albumes de cantantes y bandas exitosas, estrenos de películas y series, así como lo más novedoso en la carrera de actores y actrices(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222130000 +0000" stop="20190222131000 +0000" channel="CANAL CLARO">
+    <title lang="es">Cantinflas Y Sus Amigos</title>
+    <desc lang="es">Ep.11: El Monte San Michel. La brújula de Cantinflas apunta al Norte francés donde está el Monte San Michel, el lugar donde un monje recibió la aparición del Arcángel San Miguel pidiéndole construir un templo en su honor. Un lugar sagrado e increíble por su geografía(n)</desc>
+    <date>1982</date>
+    <category lang="es">Animacion</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222131000 +0000" stop="20190222132000 +0000" channel="CANAL CLARO">
+    <title lang="es">Cantinflas Show</title>
+    <desc lang="es">Ep.36: Las Musas. En la Mitología Griega se describe a las Musas como una fuerte fuente de inspiración para músicos, poetas y todo tipo de artistas. Cantinflas conoce a las 9 Musas que vivías en la cima del monte Parnaso(n)</desc>
+    <date>1972</date>
+    <category lang="es">Animacion</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222132000 +0000" stop="20190222133000 +0000" channel="CANAL CLARO">
+    <title lang="es">Cantinflas Y Sus Amigos</title>
+    <desc lang="es">Ep.12: El Muro De Los Lamentos. Cantinflas recorre las épocas bíblicas y la espiritualidad más profunda a través del Muro de los Lamentos y los parajes más recónditos de la capital de la fe, la ciudad de Jerusalén(n)</desc>
+    <date>1982</date>
+    <category lang="es">Animacion</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222133000 +0000" stop="20190222143000 +0000" channel="CANAL CLARO">
+    <title lang="es">Los 80</title>
+    <desc lang="es">La serie se situa entre los años 1982 y 1990, en plena dictadura de Pinochet y gira en torno a los diversos sucesos históricos ocurridos durante esa década, y que marcaron a Chile dejando un legado histórico imborrable como, por ejemplo, la gran crisis económica de esos años y el terremoto ocurrido en 1985. Todos estos sucesos son mostrados y narrados desde la realidad de una familia santiaguina de clase media típica del Chile de esos años y cómo vivieron la realidad de esa década(n)</desc>
+    <date>2008</date>
+    <category lang="es">Comedia</category>
+    <episode-num system="onscreen">S4E7</episode-num>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222143000 +0000" stop="20190222153000 +0000" channel="CANAL CLARO">
+    <title lang="es">Art Of America</title>
+    <desc lang="es">En la segunda parte de su fascinante viaje, Andrew Graham-Dixon se mete bajo la piel de la moderna metrópolis estadounidense. Comenzando su viaje al pie de la Estatua de la Libertad, Andrew descubre cómo las ambiciones de artistas y arquitectos visionarios ayudaron a Estados Unidos a alejarse de la sombra de Europa y convertirse en la civilización más avanzada del mundo(n)</desc>
+    <date>2011</date>
+    <category lang="es">Documental</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222153000 +0000" stop="20190222160000 +0000" channel="CANAL CLARO">
+    <title lang="es">Conexión Claro 2019</title>
+    <desc lang="es">Conexión Claro ofrece al televidente la información más actual y las notas de más relevancia relacionadas con nuevos proyectos de artistas, lanzamientos de albumes de cantantes y bandas exitosas, estrenos de películas y series, así como lo más novedoso en la carrera de actores y actrices(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222160000 +0000" stop="20190222165600 +0000" channel="CANAL CLARO">
+    <title lang="es">Los 80</title>
+    <desc lang="es">La serie se situa entre los años 1982 y 1990, en plena dictadura de Pinochet y gira en torno a los diversos sucesos históricos ocurridos durante esa década, y que marcaron a Chile dejando un legado histórico imborrable como, por ejemplo, la gran crisis económica de esos años y el terremoto ocurrido en 1985. Todos estos sucesos son mostrados y narrados desde la realidad de una familia santiaguina de clase media típica del Chile de esos años y cómo vivieron la realidad de esa década(n)</desc>
+    <date>2008</date>
+    <category lang="es">Comedia</category>
+    <episode-num system="onscreen">S4E8</episode-num>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222165600 +0000" stop="20190222173000 +0000" channel="CANAL CLARO">
+    <title lang="es">Vida Zen 2019</title>
+    <desc lang="es">Como tener una vida en equilibrio saludablemente(n)</desc>
+    <date>2019</date>
+    <category lang="es">Deporte</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222173000 +0000" stop="20190222183000 +0000" channel="CANAL CLARO">
+    <title lang="es">Esmeraldas</title>
+    <desc lang="es">Pinzón llega borracho a la casa, discute con Olga y la golpea. Al día siguiente ella va donde el Padre Javier y le cuenta lo sucedido. Torres quita el arma a Muñoz que está inspeccionando la mina desde lo lejos y lo ata para entregársela a Pinzón(n)</desc>
+    <date>2015</date>
+    <category lang="es">Drama</category>
+    <episode-num system="onscreen">S1E28</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222183000 +0000" stop="20190222190000 +0000" channel="CANAL CLARO">
+    <title lang="es">Conexión Claro 2019</title>
+    <desc lang="es">Conexión Claro ofrece al televidente la información más actual y las notas de más relevancia relacionadas con nuevos proyectos de artistas, lanzamientos de albumes de cantantes y bandas exitosas, estrenos de películas y series, así como lo más novedoso en la carrera de actores y actrices(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222190000 +0000" stop="20190222200000 +0000" channel="CANAL CLARO">
+    <title lang="es">Los Hombres También Lloran</title>
+    <desc lang="es">En este episodio de ´Los hombres también lloran´, Javier sabe que debe olvidar a María y seguir adelante, aunque sus intentos recientes han sido un rotundo fracaso(n)</desc>
+    <date>2014</date>
+    <category lang="es">Drama</category>
+    <episode-num system="onscreen">E29</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222200000 +0000" stop="20190222203000 +0000" channel="CANAL CLARO">
+    <title lang="es">DressCode 2019</title>
+    <desc lang="es">De la mano de Chantal Torres, nuestra experta en fashion, el público obtiene tips básicos y diversas opciones para combinar prendas accesibles, sin importar la ocasión o temporada(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222203000 +0000" stop="20190222213000 +0000" channel="CANAL CLARO">
+    <title lang="es">La Ronca de Oro</title>
+    <desc lang="es">En este episodio de ´La ronca de oro´, Cecilia le cuenta a su padre sobre su embarazo pero termina perdiendo al bebé, aunque Germán cobra venganza al mandar golpear a Efraín quien debe salir de la ciudad(n)</desc>
+    <date>2014</date>
+    <category lang="es">Drama</category>
+    <episode-num system="onscreen">S1E8</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222213000 +0000" stop="20190222220000 +0000" channel="CANAL CLARO">
+    <title lang="es">Bailando Con Vampiros</title>
+    <desc lang="es">Muchas de las muertes que ocurrieron parecen estar relacionadas con ataques de vampiros. En un programa de televisión, cinco concursantes se plantean la existencia de los vampiros. Además, aparece Mina Tepes, la princesa de los vampiros(n)</desc>
+    <date>2010</date>
+    <category lang="es">Aventura</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222220000 +0000" stop="20190222223000 +0000" channel="CANAL CLARO">
+    <title lang="es">Naruto Shippuden</title>
+    <desc lang="es">Ep.45: The Target Appears. Destruyendo el campo de fuerza con su recientemente dominado jutsu de colaboración con los sapos y las ranas, Naruto y los refuerzos llegan al sitio de la batalla. Ahora, deberán ponerse en acción para torcer la victoria en su favor(n)</desc>
+    <date>2007</date>
+    <category lang="es">Animacion</category>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190222223000 +0000" stop="20190222230000 +0000" channel="CANAL CLARO">
+    <title lang="es">Bleach</title>
+    <desc lang="es">Yumichika e Ikkaku luchan contra dos Arrancars para salvar a Shota. Se descubre que Yui, la hermana de Shota, fue raptada por un Hueco y está a punto de ser devorada en el parque(n)</desc>
+    <date>2007</date>
+    <category lang="es">Accion</category>
+    <episode-num system="onscreen">S3E129</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190222230000 +0000" stop="20190223000000 +0000" channel="CANAL CLARO">
+    <title lang="es">Yo Quisiera</title>
+    <desc lang="es">Ep.10: The Women Power. Julieta y María ensayan su canción para el certamen y es un éxito. André ha discutido con Patricia por su actitud con Lana. Cuando Lana nota el mal estado de André, intenta ayudarle, pero sus amigas se oponen(n)</desc>
+    <date>2015</date>
+    <category lang="es">Drama</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190222010000 +0000" stop="20190222020000 +0000" channel="CANAL UNO">
+    <title lang="es">Sin Senos Si Hay Paraiso</title>
+    <desc lang="es">La serie comienza cuando Hilda Santana (Catherine Siachoque), que está embarazada, recibe la noticia de la muerte de su hija Catalina Santana (Carmen Villalobos), enviándola a un parto prematuro con su segunda hija, Catalina Marín (Carolina Gaitán). Cuando nace Catalina (Carolina Gaitán), su padre Albeiro Marín (Fabián Ríos) y la madre Hilda Santana temen que comparta el destino de su difunta hermana mayor, ya que muchas de las jóvenes de su vecindario históricamente se han involucrado con la prostitución y el crimen organizado. Para proteger a su hija, Albeiro e Hilda pintan una línea amarilla fuera de su casa, prohibiéndole así a Catalina Marín salir de la casa sin su permiso. Catalina Marín se enamora de Hernán Darío (Juan Pablo Urrego), el joven que hacía los mandados en el barrio. Después de presenciar un ataque a Hernán Darío por parte de Yésica Beltrán (Majida Issa) y sus guardaespaldas, Catalina Marín cruza la línea amarilla para defender a Hernán Darío de ellos, Hilda y Albeiro al ver esto intervienen para defender a su hija y son arrestados por la policía, quienes trabajan para Yésica. Yésica, resentida con Hilda, Albeiro y Catalina, ordena a sus hombres plantar joyas en la casa de Hilda para incriminarlos de un robo que ellos no cometieron. La policía, por orden de Yésica, arresta a Hernán Darío, Catalina, Hilda y Albeiro, encarcelándolos en diferentes prisiones. Catalina es enviada a una institución penitenciaria, donde sus compañeras y guardias la golpean hasta llevarla al borde la muerte. Hernán Darío es golpeado y humillado, hasta que Yésica y su hija Daniela (Johanna Fadul) lo obligan a firmar un contrato para trabajar con ellas. Albeiro, junto con su compañero interno David, conspira para escapar de la prisión. El periodista Daniel Cerón (Juan Pablo Llano) ayuda a Catalina y a sus padres a escapar, pero Hernán Darío, convencido de que Catalina todavía está en la prisión y en peligro, acepta trabajar para la hija de Yésica, Daniela. Daniela, profundamente enamorada de Hernán Darío y viciosamente celosa de su relación con Catalina, continuamente intenta seducir a Hernán Darío mientras está a su servicio(n)</desc>
+    <rating system="CO">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20190222020000 +0000" stop="20190222030000 +0000" channel="CANAL UNO">
+    <title lang="es">CMI Emisión Central</title>
+    <desc lang="es">El acontecer diario de Colombia y del mundo, llevado a todo el país(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222030000 +0000" stop="20190222040000 +0000" channel="CANAL UNO">
+    <title lang="es">El Sultan</title>
+    <desc lang="es">Conoce la historia de la mujer que logró tener un imperio a sus pies(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222040000 +0000" stop="20190222043000 +0000" channel="CANAL UNO">
+    <title lang="es">CMI Última Emisión</title>
+    <desc lang="es">El acontecer diario de Colombia y del mundo, llevado a todo el país(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222043000 +0000" stop="20190222050000 +0000" channel="CANAL UNO">
+    <title lang="es">Decisiones Colombia</title>
+    <desc lang="es">Programación Canal Uno(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222050000 +0000" stop="20190222053000 +0000" channel="CANAL UNO">
+    <title lang="es">La Hora Del Milagro</title>
+    <desc lang="es">La Hora Del Milagro(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222053000 +0000" stop="20190222060000 +0000" channel="CANAL UNO">
+    <title lang="es">Latin Angels</title>
+    <desc lang="es">El nuevo Canal Uno tiene una nueva programación preparada para ti(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222060000 +0000" stop="20190222070000 +0000" channel="CANAL UNO">
+    <title lang="es">El Sultan</title>
+    <desc lang="es">Conoce la historia de la mujer que logró tener un imperio a sus pies(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222070000 +0000" stop="20190222080000 +0000" channel="CANAL UNO">
+    <title lang="es">CMI Emisión Medio Día</title>
+    <desc lang="es">El acontecer diario de Colombia y del mundo, llevado a todo el país(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222080000 +0000" stop="20190222100000 +0000" channel="CANAL UNO">
+    <title lang="es">Fin De Emisión</title>
+    <desc lang="es">Fin De Emisión(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222100000 +0000" stop="20190222103000 +0000" channel="CANAL UNO">
+    <title lang="es">CMI Emisión Central</title>
+    <desc lang="es">El acontecer diario de Colombia y del mundo, llevado a todo el país(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222103000 +0000" stop="20190222110000 +0000" channel="CANAL UNO">
+    <title lang="es">El Despertar De La Fe</title>
+    <desc lang="es">El nuevo Canal Uno tiene una nueva programación preparada para ti(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222110000 +0000" stop="20190222113000 +0000" channel="CANAL UNO">
+    <title lang="es">Viva La Vida</title>
+    <desc lang="es">El nuevo Canal Uno tiene una nueva programación preparada para ti(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222113000 +0000" stop="20190222120000 +0000" channel="CANAL UNO">
+    <title lang="es">Salud Vital</title>
+    <desc lang="es">El nuevo Canal Uno tiene una nueva programación preparada para ti(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222120000 +0000" stop="20190222130000 +0000" channel="CANAL UNO">
+    <title lang="es">Lo Mejor De Caso Cerrado</title>
+    <desc lang="es">Caso Cerrado presenta casos conmovedores con los que podrás identificarte, tomar partido y ser testigo de soluciones basadas en la verdad(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222130000 +0000" stop="20190222140000 +0000" channel="CANAL UNO">
+    <title lang="es">Lo Mejor De Caso Cerrado</title>
+    <desc lang="es">Caso Cerrado presenta casos conmovedores con los que podrás identificarte, tomar partido y ser testigo de soluciones basadas en la verdad(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222140000 +0000" stop="20190222170000 +0000" channel="CANAL UNO">
+    <title lang="es">Aca Entre Nos</title>
+    <desc lang="es">Programación Canal Uno(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222170000 +0000" stop="20190222180000 +0000" channel="CANAL UNO">
+    <title lang="es">CMI Medio Dia</title>
+    <desc lang="es">El acontecer diario de Colombia y del mundo, llevado a todo el país(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222180000 +0000" stop="20190222190000 +0000" channel="CANAL UNO">
+    <title lang="es">El Sultan</title>
+    <desc lang="es">Conoce la historia de la mujer que logró tener un imperio a sus pies(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222190000 +0000" stop="20190222200000 +0000" channel="CANAL UNO">
+    <title lang="es">Mujer</title>
+    <desc lang="es">Una teleserie turca que cuenta la historia de Bahar, una joven mujer que fue abandonada por su madre cuando era niña, hecho que la obliga a aprender a cuidar de ella misma desde sus primeros años de vida(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222200000 +0000" stop="20190222210000 +0000" channel="CANAL UNO">
+    <title lang="es">Lo Se Todo</title>
+    <desc lang="es">El nuevo Canal Uno tiene una nueva programación preparada para ti(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222210000 +0000" stop="20190222220000 +0000" channel="CANAL UNO">
+    <title lang="es">Decisiones Colombia</title>
+    <desc lang="es">Programación Canal Uno(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222220000 +0000" stop="20190222230000 +0000" channel="CANAL UNO">
+    <title lang="es">Caso Cerrado</title>
+    <desc lang="es">Caso Cerrado presenta casos conmovedores con los que podrás identificarte, tomar partido y ser testigo de soluciones basadas en la verdad(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222230000 +0000" stop="20190223003000 +0000" channel="CANAL UNO">
+    <title lang="es">Guerreros</title>
+    <desc lang="es">Guerreros es un reality de competencia en vivo, en el que seis hombres y seis mujeres se enfrentarán a diario para saber cuál es el sexo más fuerte(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222000000 +0000" stop="20190222003000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticiero Del Senado</title>
+    <desc lang="es">Nos cuenta las noticias y los temas más destacados de la semana legislativa en el Senado de la República, como preferencias arancelarias, alianza del pacifico, acuerdos comerciales, entre otros(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222003000 +0000" stop="20190222010000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222010000 +0000" stop="20190222020000 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Agencia</title>
+    <desc lang="es">Carolina Castro, Catalina Castro y Belky Arizala dirigirán su propia agencia de modelos para demostrar quién domina este negocio(n)</desc>
+    <credits>
+      <actor>Carolina Castro</actor>
+      <actor>Catalina Castro</actor>
+      <actor>Belky Arizala</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Reality Show</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222020000 +0000" stop="20190222030000 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Gloria De Lucho</title>
+    <desc lang="es">Una historia de ficción inspirada en aspectos de la vida de Luis Eduardo Díaz (Lucho). Un hombre al que la suerte le cambió la vida(n)</desc>
+    <credits>
+      <director>Olga Lucía Rodríguez</director>
+      <actor>Enrique Carriazo</actor>
+      <actor>Verónica Orozco</actor>
+      <actor>Luis Eduardo Arango</actor>
+      <actor>Andrea Guzmán</actor>
+      <actor>Constanza Gutiérrez</actor>
+      <actor>Edgardo Román</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222030000 +0000" stop="20190222040000 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Bronx</title>
+    <desc lang="es">Inspirada en hechos reales, esta historia nos sumerge en un territorio desconocido que nos muestra un abismo en el que hay redención. El Bronx es un gueto en el que conviven el dolor y la esperanza, donde inocentes pagan por pecadores. Un lugar en el que el amor crece entre escombros y la amistad se sella con lágrimas. Pero, en medio del sufrimiento, es una historia de amor y de sueños por cumplir(n)</desc>
+    <date>2019</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222040000 +0000" stop="20190222043000 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Señor De Los Cielos VI</title>
+    <desc lang="es">La historia de Amado Carrillo Fuentes, el hombre que se convirtió en el jefe del cartel de Juárez(n)</desc>
+    <credits>
+      <director>Danny Gavidia</director>
+      <actor>Rafael Amaya</actor>
+      <actor>Ximena Herrera</actor>
+      <actor>Carmen Villalobos</actor>
+      <actor>Mauricio Ochmann</actor>
+      <actor>Robinson Díaz</actor>
+      <actor>RAÚL MENDEZ</actor>
+    </credits>
+    <category lang="es">Crimen</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222043000 +0000" stop="20190222050000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222050000 +0000" stop="20190222060000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Kuzey Guney</title>
+    <desc lang="es">Telenovela(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222060000 +0000" stop="20190222094500 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+    <desc lang="es">Programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes. Durante varios años, se ha caracterizado por hacer bromas sanas sin comprometer la integridad de las personas, bajo el formato de cámara escondida, tal vez el más antiguo y vigente formato de reality(n)</desc>
+    <credits>
+      <actor>César Escola</actor>
+      <actor>Mary Méndez</actor>
+      <actor>Juan Carlos Villegas</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222094500 +0000" stop="20190222101500 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+    <desc lang="es">Información y asesoría sobre el mundo del campo(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222101500 +0000" stop="20190222103000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+    <desc lang="es">Comience su día con grandes invitados, humor, concursos y muchas cosas más(n)</desc>
+    <credits>
+      <actor>Catalina Gómez</actor>
+      <actor>Mónica Rodríguez</actor>
+      <actor>Mauricio Vélez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222103000 +0000" stop="20190222133000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222133000 +0000" stop="20190222153000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+    <desc lang="es">Comience su día con grandes invitados, humor, concursos y muchas cosas más(n)</desc>
+    <credits>
+      <actor>Catalina Gómez</actor>
+      <actor>Mónica Rodríguez</actor>
+      <actor>Mauricio Vélez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222153000 +0000" stop="20190222163000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Me Robó Mi Vida</title>
+    <desc lang="es">Bahar es una joven que no sabe que su abuelo la entregó a la familia que cree es la suya, años después el abuelo se arrepiente, y la familia presenta a su otra hija Efsun como la heredera(n)</desc>
+    <credits>
+      <director>Merve Girgin</director>
+      <actor>Ezgi Asaroğlu</actor>
+      <actor>Keremcem</actor>
+      <actor>Ceren Moray</actor>
+      <actor>Sinan Albayrak</actor>
+      <actor>Ozan Güler</actor>
+      <actor>Ahu Sungur</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222163000 +0000" stop="20190222173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Alas De Amor</title>
+    <desc lang="es">Telenovela(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222173000 +0000" stop="20190222203000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222203000 +0000" stop="20190222220000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Elif</title>
+    <desc lang="es">La pequeña Elif es la única razón de vivir de esta madre dedicada, pero para protegerla tiene que dejarla ir(n)</desc>
+    <credits>
+      <actor>Selin Sezgin</actor>
+      <actor>Altug Seckıner</actor>
+      <actor>Isabella Damla Güvenilir</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222220000 +0000" stop="20190222230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Medcezir</title>
+    <desc lang="es">La historia de Yaman, un joven humilde que ve su suerte cambiar cuando conoce a un abogado que le ofrece ayuda(n)</desc>
+    <credits>
+      <director>Ali Bilgin</director>
+      <actor>Çağatay Ulusoy</actor>
+      <actor>Serenay Sarıkaya</actor>
+      <actor>Barış Falay</actor>
+      <actor>Mine Tugay</actor>
+      <actor>Hazar Ergüçlü</actor>
+      <actor>Taner Ölmez</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222230000 +0000" stop="20190223000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Tu Voz Estéreo</title>
+    <desc lang="es">Más que un seriado inspirado en un programa radial. Es un espacio en el que convergen desde relatos de amor y de despecho, hasta conflictos juveniles y familiares. El aborto, el suicidio, la bulimia, los problemas de adicción, el amor y el desamor son algunos de los temas que llaman la atención de los televidentes en este seriado. Michelle Rouillard es Sara, una periodista sagaz y rebelde que conduce un popular programa radial en el que los oyentes son los protagonistas de las más insólitas y dramáticas historias en las que, sin proponérselo, ella termina involucrándose. La necesidad de ser escuchados impulsa a los oyentes a comunicarse con el programa para desahogarse, denunciar, compartir, opinar y hasta pedir auxilio. Sara no está sola. Sebastián, interpretado por Alejandro Estrada, es su compañero de fórmula. Este ingeniero de sistemas es el productor del espacio radial. Juntos conforman una pareja altruista y solidaria. Las dificultades de sus oyentes son también las suyas(n)</desc>
+    <credits>
+      <actor>Michelle Rouillard</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222000000 +0000" stop="20190222020000 +0000" channel="DIA TV">
+    <title lang="es">Red+ Noticias</title>
+    <desc lang="es">EN VIVO. Closed Caption. Conocer las noticias es bueno, entenderlas es mejor. El noticiero con mayor audiencia en la televisión por cable en Colombia se destaca por su manera de analizar las noticias, por el tono informativo y de opinión que brinda al televidente todas las aristas de un hecho(n)</desc>
+    <credits>
+      <director>Juan Lozano</director>
+    </credits>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222020000 +0000" stop="20190222030000 +0000" channel="DIA TV">
+    <title lang="es">Zona Franca</title>
+    <desc lang="es">Closed Caption. Se rescata uno de los géneros periodísticos más controversiales: el debate. Un joven periodista lidera un tema de actualidad, el cual analiza con los detractores y defensores del acontecimiento(n)</desc>
+    <credits>
+      <director>Daniel Pacheco</director>
+    </credits>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222030000 +0000" stop="20190222033000 +0000" channel="DIA TV">
+    <title lang="es">Efecto Pirry</title>
+    <desc lang="es">Efecto Pirry(n)</desc>
+    <credits>
+      <director>Guillermo Prieto</director>
+    </credits>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222033000 +0000" stop="20190222040000 +0000" channel="DIA TV">
+    <title lang="es">Al Punto</title>
+    <desc lang="es">Especial Al Punto(n)</desc>
+    <credits>
+      <director>Juan Lozano</director>
+    </credits>
+    <category lang="es">Otro</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222040000 +0000" stop="20190222050000 +0000" channel="DIA TV">
+    <title lang="es">Red+ Noticias</title>
+    <desc lang="es">Repetición. Conocer las noticias es bueno, entenderlas es mejor. El noticiero con mayor audiencia en la televisión por cable en Colombia se destaca por su manera de analizar las noticias, por el tono informativo y de opinión que brinda al televidente todas las aristas de un hecho(n)</desc>
+    <credits>
+      <director>Juan Lozano</director>
+    </credits>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222050000 +0000" stop="20190222053000 +0000" channel="DIA TV">
+    <title lang="es">Hashtag</title>
+    <desc lang="es">El magazín internacional que lo tiene todo, moda, lujo, glamour, realeza, tendencias, música, ciencia, cine, deportes, tecnología, los personajes más importantes y muchísimas cosas más. Presenta Amparito Castilla(n)</desc>
+    <credits>
+      <director>Amparo Castilla</director>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222053000 +0000" stop="20190222063000 +0000" channel="DIA TV">
+    <title lang="es">Claro Música</title>
+    <desc lang="es">Closed Caption. Alianza con los canales musicales de Claro. Un espacio de acompañamiento para el televidente(n)</desc>
+    <category lang="es">Musica</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222063000 +0000" stop="20190222070000 +0000" channel="DIA TV">
+    <title lang="es">Espacio Publicitario</title>
+    <desc lang="es">Espacio Publicitario(n)</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222070000 +0000" stop="20190222100000 +0000" channel="DIA TV">
+    <title lang="es">Maratón Mas Allá</title>
+    <desc lang="es">Repetición. Misterio y asuntos paranormales en televisión. Temas como ovnis, apariciones, asesinos en serie, psicofonías, nazis.son tratados por un grupo de expertos invitados al set que conduce y dirige Esteban Cruz, antropólogo, historiador, profesor de la Universidad del Rosario y El Bosque, experto en temas paranormales(n)</desc>
+    <credits>
+      <director>Patricia Pardo</director>
+    </credits>
+    <category lang="es">Otro</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222100000 +0000" stop="20190222103000 +0000" channel="DIA TV">
+    <title lang="es">Espacio Publicitario</title>
+    <desc lang="es">Espacio Publicitario(n)</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222103000 +0000" stop="20190222110000 +0000" channel="DIA TV">
+    <title lang="es">Espacio Publicitario</title>
+    <desc lang="es">Espacio Publicitario(n)</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222110000 +0000" stop="20190222130000 +0000" channel="DIA TV">
+    <title lang="es">Alianza Caracol 6 Am+</title>
+    <desc lang="es">EN VIVO. Alianza de medios Radio Caracol y Red Más. Red Más transmite y participa en el programa de Radio del grupo Prisa HOY POR HOY De 6 a 8:30(n)</desc>
+    <credits>
+      <director>Darío Arizmendi</director>
+    </credits>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222130000 +0000" stop="20190222170000 +0000" channel="DIA TV">
+    <title lang="es">Espacio Publicitario</title>
+    <desc lang="es">Espacio Publicitario(n)</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222170000 +0000" stop="20190222180000 +0000" channel="DIA TV">
+    <title lang="es">Alianza Caracol 12 M+</title>
+    <desc lang="es">EN VIVO. Closed Caption. Alianza de medios Radio Caracol y Red Mas. En el horario del mediodía Bogotá y un recorrido nacional de noticias acompañan el almuerzo de los colombianos(n)</desc>
+    <credits>
+      <director>Darío Arizmendi</director>
+    </credits>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222180000 +0000" stop="20190222183000 +0000" channel="DIA TV">
+    <title lang="es">Espacio Publicitario</title>
+    <desc lang="es">Espacio Publicitario(n)</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222183000 +0000" stop="20190222190000 +0000" channel="DIA TV">
+    <title lang="es">Espacio Publicitario</title>
+    <desc lang="es">Espacio Publicitario(n)</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222190000 +0000" stop="20190222200000 +0000" channel="DIA TV">
+    <title lang="es">Más Ideas</title>
+    <desc lang="es">Closed Caption. Emprender un negocio, generar ingresos desde la comodidad del hogar, conocer los beneficios de la pequeña empresa para trabajar por nuestros sueños de éxito. Más Ideas Ama tu Casa trae a quienes le enseñan al televidente cómo hacer las cosas y cómo prepararse para que de cada lección haga un gran negocio. Presenta Alejandra Gomez(n)</desc>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222200000 +0000" stop="20190222223000 +0000" channel="DIA TV">
+    <title lang="es">Espacio Publicitario</title>
+    <desc lang="es">Espacio Publicitario(n)</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222223000 +0000" stop="20190222230000 +0000" channel="DIA TV">
+    <title lang="es">Efecto Pirry</title>
+    <desc lang="es">Efecto Pirry(n)</desc>
+    <credits>
+      <director>Guillermo Prieto</director>
+    </credits>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222230000 +0000" stop="20190222233000 +0000" channel="DIA TV">
+    <title lang="es">Al Punto</title>
+    <desc lang="es">Repetición. Especial Al Punto(n)</desc>
+    <credits>
+      <director>Juan Lozano</director>
+    </credits>
+    <category lang="es">Otro</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222233000 +0000" stop="20190223000000 +0000" channel="DIA TV">
+    <title lang="es">15 Minutos TV</title>
+    <desc lang="es">Las facetas más divertidas de los famosos, ellos no sólo actúan ni cantan, ellos también se divierten, comparten, forman parte de esta familia de entretenimiento y revelan esos momentos que hacen de la tarde media hora de esparcimiento(n)</desc>
+    <credits>
+      <director>Paola Vargas</director>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20190222000000 +0000" stop="20190222003000 +0000" channel="CANAL RCN">
+    <title lang="es">Inf. De La Camara</title>
+    <desc lang="es">Inf. De La Camara(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222003000 +0000" stop="20190222020000 +0000" channel="CANAL RCN">
+    <title lang="es">Reto 4 Elementos Naturaleza Extrema</title>
+    <desc lang="es">los colombianos disfrutarán de un concurso de supervivencia, resistencia, retos físicos y mentales, que pondrá a prueba a 28 participantes del medio artístico y deportivo(n)</desc>
+    <credits>
+      <actor>Carolina Guerra</actor>
+      <actor>Édgar Vittorino</actor>
+      <actor>Gustavo Blanco</actor>
+      <actor>Edward Pinzón</actor>
+      <actor>Alexander Ospina</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Reality Show</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222020000 +0000" stop="20190222030000 +0000" channel="CANAL RCN">
+    <title lang="es">Yo Soy Betty La Fea</title>
+    <desc lang="es">Betty es una excelente mujer y profesional, pero su aspecto físico no le permite conseguir el trabajo que se merece, por esto debe resignarse a ser la secretaria de Armando, un hombre superficial del cual se enamora perdidamente(n)</desc>
+    <credits>
+      <director>Fernando Gaitán</director>
+      <actor>Jorge Enrique Abello</actor>
+      <actor>Ana Maria Orozco</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222030000 +0000" stop="20190222040000 +0000" channel="CANAL RCN">
+    <title lang="es">La Ley Del Corazón 2</title>
+    <desc lang="es">Regresa con más casos en la nueva firma de abogados que consolidarán Pablo Domínguez, Alfredo Duperly y Nicolás Ortega de la mano de sus demás colegas con los que trabajaban en Cabal-Ortega-Domínguez y Asociados. Esta vez, varios abogados caminarán entre la fiina línea de la ilegalidad y uno, especialmente, pondrá a los abogados en la mira de la justicia(n)</desc>
+    <credits>
+      <director>Jorge Giraldo</director>
+      <actor>Luciano D'Alessandro</actor>
+      <actor>Laura Londoño</actor>
+      <actor>Iván López</actor>
+      <actor>Mabel García</actor>
+      <actor>Rodrigo Candamil</actor>
+      <actor>Lina Tejeiro</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222040000 +0000" stop="20190222043000 +0000" channel="CANAL RCN">
+    <title lang="es">Intriga</title>
+    <desc lang="es">Los hermanos Sarp y Mert viven emocionalmente afectados por inesperados secretos en una historia en la que nada es lo que parece. Dos hermanos de lados opuestos de la ley que deben desenmascarar la identidad del otro para salvarse a sí mismos. Está Sarp dispuesto a entregar a sus amigos, familia, su hermano perdido y su amor(n)</desc>
+    <credits>
+      <director>Uluç Bayraktar</director>
+      <actor>Çağatay Ulusoy</actor>
+      <actor>Aras Bulut İynemli</actor>
+      <actor>Bensu Soral</actor>
+      <actor>Çetin Tekindor</actor>
+      <actor>Mustafa Uğurlu</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222043000 +0000" stop="20190222050000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222050000 +0000" stop="20190222055000 +0000" channel="CANAL RCN">
+    <title lang="es">La Noche</title>
+    <desc lang="es">Un excelente espacio para el periodismo serio, responsable y honesto. La noche debate los temas más importantes desde diferentes puntos de vista, para que cada televidente pueda sacar sus propias conclusiones(n)</desc>
+    <credits>
+      <director>Claudia Gurisati</director>
+      <actor>Claudia Gurisati</actor>
+      <actor>Jeisson Calderón</actor>
+      <actor>Carlos Sanabria</actor>
+      <actor>Carolina Hernández</actor>
+    </credits>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222055000 +0000" stop="20190222062000 +0000" channel="CANAL RCN">
+    <title lang="es">Contacto Astral</title>
+    <desc lang="es">Para dar a conocer diferentes temas relacionados con el esoterismo, manejo de las energías, el mundo astral y consejos para que los televidentes puedan afrontar sus problemas de la vida diaria de una manera más acertada(n)</desc>
+    <credits>
+      <actor>Ayda Luz Valencia Castaño</actor>
+    </credits>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222062000 +0000" stop="20190222070000 +0000" channel="CANAL RCN">
+    <title lang="es">Isabel Me la Veló</title>
+    <desc lang="es">Esta es una novela protagonizada por Isabel Vargas, una mujer sencilla que viene de una familia de fotógrafos, y sueña con ser una gran fotógrafa publicitaria y con lograr el reconocimiento que merece su padre. En su camino hacia la fama, Isabel se encontrará con el famoso publicista Diego Arocha con quien trabajará en una campaña publicitaria en la que también aparecerá su familia. Lo que Isabel no sabe es que esta campaña acabará con el prestigio de su familia, con la salud de su padre y con el amor que llegó a sentir por Diego Arocha(n)</desc>
+    <credits>
+      <director>Toni Navia</director>
+      <actor>Verónica Orozco</actor>
+      <actor>Luigi Aycardi</actor>
+      <actor>Luly Bossa</actor>
+      <actor>Frank Ramírez</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222070000 +0000" stop="20190222080000 +0000" channel="CANAL RCN">
+    <title lang="es">Gana Con Ganas</title>
+    <desc lang="es">Gana Con Ganas(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222080000 +0000" stop="20190222091000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222091000 +0000" stop="20190222095000 +0000" channel="CANAL RCN">
+    <title lang="es">El Mundo Del Campo</title>
+    <desc lang="es">Muestra al país y al mundo entero las cosas buenas que hace la gente del campo, sus tecnologías, su cultura, sus experiencias y lo más importante los ejemplos de vida que nos indican que el futuro de Colombia está en el campo. En un extenso recorrido por todo el territorio Colombiano hemos podido observar grandes, medianos y pequeños ejemplos de vida donde vemos que si es posible utilizar el campo como herramienta de desarrollo, donde desde el más pequeño campesino hasta el más avanzado industrial han podido contarnos como aplicando la ciencia y la tecnología se puede salir adelante en el campo. No solamente es un programa destinado al sector agrícola y pecuario, se tratan por igual los temas silvícolas, pesqueros, ecoturístico, agroturístico, alimentario, agroindustrial sin dejar a un lado lo social y ambiental(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222095000 +0000" stop="20190222103000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+    <desc lang="es">Telenovela compactada y contada con toda su intensidad en una sola hora; un programa de divertimento familiar que nos permite emitir mensajes positivos, llenos de esperanza y de lucha(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222103000 +0000" stop="20190222123000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222123000 +0000" stop="20190222153000 +0000" channel="CANAL RCN">
+    <title lang="es">El Desayuno</title>
+    <desc lang="es">El programa busca unir a los colombianos, informar, cocinar y además, llevar todo el entretenimiento porque nada como desayunar en familia(n)</desc>
+    <credits>
+      <actor>Iván Lalinde</actor>
+      <actor>Yaneth Waldman</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222153000 +0000" stop="20190222163000 +0000" channel="CANAL RCN">
+    <title lang="es">Quién Eres Tu</title>
+    <desc lang="es">La difícil historia de dos hermanas gemelas que luego de un terrible suceso se verán obligadas a separarse, sin saber que el destino les tiene planeado un reencuentro en donde deberán demostrar si el amor por la familia es más importante que sus propios deseos(n)</desc>
+    <credits>
+      <director>Rodolfo Hoyos</director>
+      <actor>Laura Carmine</actor>
+      <actor>Julian Gil</actor>
+      <actor>Isabel Cristina Estrada</actor>
+      <actor>Lincoln Palomeque</actor>
+      <actor>Marisol Del Olmo</actor>
+      <actor>José Narváez</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222163000 +0000" stop="20190222173000 +0000" channel="CANAL RCN">
+    <title lang="es">Caer En Tenación</title>
+    <desc lang="es">La historia de dos parejas que comienzan teniendo una amistad para luego terminar enredadas en un amor prohibido(n)</desc>
+    <credits>
+      <director>Juan Pablo Blanco</director>
+      <actor>Silvia Navarro</actor>
+      <actor>Gabriel Soto</actor>
+      <actor>Adriana Louvier</actor>
+      <actor>Carlos Ferro</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222173000 +0000" stop="20190222190000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222190000 +0000" stop="20190222201000 +0000" channel="CANAL RCN">
+    <title lang="es">Hasta Que La Plata Nos Separe</title>
+    <desc lang="es">Un accidente de tránsito cruzará la vida de Rafael Méndez y Alejandra Maldonado en una divertida situación que pondrá al límite a sus protagonistas. Hasta que la plata nos separe relata los aciertos y desaciertos de Rafael Méndez (Víctor Hugo Cabrera), un modesto comerciante que cuenta con la habilidad de vender todo lo que le pongan como meta, con tal de mantener y darle las comodidades necesarias a su mamá y a su hermana. Toda su vida marcha con tranquilidad, hasta que una noche provoca un desastroso accidente en el que termina chocando a un lujoso carro último modelo en una carretera y este va a dar a un abismo profundo. Tras dudarlo mucho, Méndez decide ayudar a quien accidentó y allí se encuentra con una bella mujer que está destrozada y delirante. Al llevarla a una clínica, su vida da un giro total e inesperado que lo hará cuestionarse si valió la pena sacarla de allí y salvarle la vida. En medio del problema en el que se ha metido con Alejandra Maldonado (Marcela Carvajal), la mujer a la que le causó múltiples daños, los dos deciden llegar a un acuerdo que, entre palabras, se ve muy sencillo: Alejandra pide un préstamo bancario por el dinero que necesita para su tratamiento, sabiendo que por la situación económica de Rafael, ningún banco le brindaría esa opción. La condición que ella pone es que él se comprometa a pagar a pagar dicha suma durante tres años, a razón de 36 cuotas mensuales de cinco millones y medio de pesos, una cifra absurda, teniendo en cuenta que en los mejores meses de su vida, este vendedor apenas ha logrado ganar 500 mil pesos al mes. Sin estudios universitarios, Méndez comienza una carrera loca por hallar un trabajo que le ofrezca una mensualidad de más de seis millones de pesos, pero la ciudad es exigente y como es de suponer, no lo logra. Sin embargo, hay otra oportunidad(n)</desc>
+    <credits>
+      <director>Sergio Osorio</director>
+      <actor>Victor Hugo Cabrera</actor>
+      <actor>Marcela Carvajal</actor>
+      <actor>Vicky Parra</actor>
+      <actor>‘La Pajarita’</actor>
+      <actor>Gustavo Ángel</actor>
+      <actor>Constanza Duque</actor>
+      <actor>Katherine Porto</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222201000 +0000" stop="20190222210000 +0000" channel="CANAL RCN">
+    <title lang="es">Celia</title>
+    <desc lang="es">Esta es la historia de Celia, la negrita, la feíta, la flaquita y la tímida que nunca dejó de cantar y de llevar el mensaje de libertad para su pueblo. Que jamás se creyó el cuento de la fama, que siempre mantuvo la humildad y el carisma y que, con ahínco, cumplió como ninguna todo lo que se propuso, conquistó con su voz los mercados de lenguas distintas a la suya e hizo su propia revolución: hacer de La Salsa el género más importante de la música latina en el mundo, pasando a la historia como esa mujer, que lejos de su tierra, la honró con creces y demostró a todos nosotros que no hay sueños imposibles(n)</desc>
+    <credits>
+      <director>Víctor Mallarino</director>
+      <actor>Jeimy Osorio</actor>
+      <actor>Aymeé Nuviola</actor>
+      <actor>Modesto Lacén</actor>
+      <actor>Willy Denton</actor>
+      <actor>Carolina Gaitán</actor>
+      <actor>Abel Rodríguez</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222210000 +0000" stop="20190223000000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+    <desc lang="es">Telenovela compactada y contada con toda su intensidad en una sola hora; un programa de divertimento familiar que nos permite emitir mensajes positivos, llenos de esperanza y de lucha(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222010000 +0000" stop="20190222020000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Citynoticias</title>
+    <desc lang="es">Trasmite en directo los eventos más importantes de la vida nacional, donde sus noticias siguen haciendo historia y los análisis y opiniones marcan la diferencia(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222020000 +0000" stop="20190222030000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Tu Mundo Hoy</title>
+    <desc lang="es">Descubre las claves de la información nacional e internacional(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222030000 +0000" stop="20190222033000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Mejor Hablemos</title>
+    <desc lang="es">Programa de una hora donde conocedores y protagonistas de los temas de actualidad nacional presentarán sus posturas, ideas y análisis; y discutirán las de sus compañeros de programa(n)</desc>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222033000 +0000" stop="20190222040000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Mucho Animal</title>
+    <desc lang="es">Programa que pretende exaltar lo mejor de los animales de compañía. Los televidentes podrán ver además de temas tan importantes como: la ida al veterinario, y el adiestramiento; notas sobre razas, no solo de perros y gatos, sino de aves y peces, mitos y realidades sobre las mismas, preguntas y respuestas, planes para realizar con su mascota, notas que visibilizan a las personas y fundaciones que se dedican a abogar por el bienestar de los animales, y animales que ayudan en diversas actividades, desde los perros antiexplosivos y antinarcóticos, hasta los caballos que prestan un servicio terapéutico con niños especiales; igualmente se denunciará a aquellos que maltratan a los animales, irrespetando sus derechos(n)</desc>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222040000 +0000" stop="20190222043000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Mundo Curioso</title>
+    <desc lang="es">Programa de entretenimiento que reúne las historias y los sucesos más insólitos que suceden alrededor del mundo. Eventos culturales o deportivos, extraordinarios desarrollos tecnológicos, mágicos museos, restaurantes fuera de lo común y las curiosidades más divertidas de los animales capturados en video, hacen parte del programa(n)</desc>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222043000 +0000" stop="20190222100000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Noticias El Tiempo</title>
+    <desc lang="es">Entérese de todo lo que sucede en Colombia, sus regiones y el mundo en los noticieros de dos horas en vivo de EL TIEMPO TELEVISIÓN(n)</desc>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222100000 +0000" stop="20190222103000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">El Mundo Al Día</title>
+    <desc lang="es">El Mundo Al Día(n)</desc>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222103000 +0000" stop="20190222110000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Al Amanecer</title>
+    <desc lang="es">Al Amanecer(n)</desc>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222110000 +0000" stop="20190222130000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Noticias El Tiempo</title>
+    <desc lang="es">Entérese de todo lo que sucede en Colombia, sus regiones y el mundo en los noticieros de dos horas en vivo de EL TIEMPO TELEVISIÓN(n)</desc>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222130000 +0000" stop="20190222150000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Televenta</title>
+    <desc lang="es">Televenta(n)</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222150000 +0000" stop="20190222153000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Mucho Animal</title>
+    <desc lang="es">Programa que pretende exaltar lo mejor de los animales de compañía. Los televidentes podrán ver además de temas tan importantes como: la ida al veterinario, y el adiestramiento; notas sobre razas, no solo de perros y gatos, sino de aves y peces, mitos y realidades sobre las mismas, preguntas y respuestas, planes para realizar con su mascota, notas que visibilizan a las personas y fundaciones que se dedican a abogar por el bienestar de los animales, y animales que ayudan en diversas actividades, desde los perros antiexplosivos y antinarcóticos, hasta los caballos que prestan un servicio terapéutico con niños especiales; igualmente se denunciará a aquellos que maltratan a los animales, irrespetando sus derechos(n)</desc>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222153000 +0000" stop="20190222160000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Mundo Curioso</title>
+    <desc lang="es">Programa de entretenimiento que reúne las historias y los sucesos más insólitos que suceden alrededor del mundo. Eventos culturales o deportivos, extraordinarios desarrollos tecnológicos, mágicos museos, restaurantes fuera de lo común y las curiosidades más divertidas de los animales capturados en video, hacen parte del programa(n)</desc>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222160000 +0000" stop="20190222180000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Noticias El Tiempo</title>
+    <desc lang="es">Entérese de todo lo que sucede en Colombia, sus regiones y el mundo en los noticieros de dos horas en vivo de EL TIEMPO TELEVISIÓN(n)</desc>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222180000 +0000" stop="20190222200000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Noticias El Tiempo</title>
+    <desc lang="es">Entérese de todo lo que sucede en Colombia, sus regiones y el mundo en los noticieros de dos horas en vivo de EL TIEMPO TELEVISIÓN(n)</desc>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222200000 +0000" stop="20190222203000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Tu Casa Soñada</title>
+    <desc lang="es">Es un programa que busca contar todo lo relacionado con el hogar, la vivienda y la construcción. Tendremos como parte inicial el relato de una persona que narrará toda la historia sobre su casa. La idea es tocar diferentes temas y situaciones que las familias colombianas tienen respecto a la vivienda, poder darles una solución e informarles a todos aquellos que estén en una situación similar lo qué pueden hacer al respecto. A demás, buscamos tener una temática ligera, entendible y accesible. Para ello tocaremos temas de remodelación, tendencias, modas, tips y consejos. Es un programa cuyo fin es alentar a las personas a conseguir su vivienda propia, a lograr la titulación de su predio y a animarse a cambiar los espacios de su casa(n)</desc>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222203000 +0000" stop="20190222223000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Al Atardecer</title>
+    <desc lang="es">Al Atardecer(n)</desc>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222223000 +0000" stop="20190222230000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Fuera De Estudio</title>
+    <desc lang="es">Programa informativo de media hora. Una gran ronda por la redacción de El Tiempo Casa Editorial para conocer, de primera mano, las noticias en las que están trabajando nuestros reporteros. Más de 200 periodistas que cubren los hechos más importantes de la ciudad, del país y del mundo y que al comenzar la noche se alistan para cerrar sus historias(n)</desc>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190222230000 +0000" stop="20190223010000 +0000" channel="EL TIEMPO TELEVISION">
+    <title lang="es">Al Atardecer</title>
+    <desc lang="es">Al Atardecer(n)</desc>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+</tv>
